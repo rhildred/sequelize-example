@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.4.0",
+    "drizzle-orm": "^0.27.2",
+    "sequelize": "^6.32.1",
+    "sqlite3": "^5.1.6"
+  }
+}
